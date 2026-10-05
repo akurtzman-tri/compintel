@@ -1,0 +1,128 @@
+{
+  "competitor": "playwright",
+  "run_date": "2026-10-05",
+  "previous_run_dir": "data/playwright/2026-10-02/08-40-54",
+  "changes_detected": true,
+  "changed_pages": [
+    {
+      "url": "https://github.com/microsoft/playwright/releases",
+      "source_type": "competitor",
+      "prev_length": 35539,
+      "curr_length": 35558,
+      "length_delta": 19,
+      "change_pct": 0.1,
+      "added_lines": [
+        "6.6k",
+        "97.1k",
+        "27",
+        "vtrubesset, UweStolz, chfly2000, lin72h, m3thom, maciejcieslar, donovan-shook, ThibautMarechal, alex2276564, binbjz, and 17 more reacted with thumbs up emoji",
+        "2",
+        "Code-By-Adarsh and calcium-anything-headfirst reacted with laugh emoji",
+        "15",
+        "alexander-vershinin, mxschmitt, methbkts, PhenX, Morgy93, lin72h, Tsuyoshi84, bsv11, binbjz, DetachHead, and 5 more reacted with hooray emoji",
+        "vtrubesset, Klaster1, lin72h, sopansagorkar, binbjz, DetachHead, ValorHeart, bitwisebro, hquiles, nozomiishii, and 4 more reacted with heart emoji",
+        "27 reactions",
+        "2 reactions",
+        "15 reactions"
+      ],
+      "removed_lines": [
+        "6.5k",
+        "97k",
+        "26",
+        "vtrubesset, UweStolz, chfly2000, lin72h, m3thom, maciejcieslar, donovan-shook, ThibautMarechal, alex2276564, binbjz, and 16 more reacted with thumbs up emoji",
+        "1",
+        "Code-By-Adarsh reacted with laugh emoji",
+        "alexander-vershinin, mxschmitt, methbkts, PhenX, Morgy93, lin72h, Tsuyoshi84, bsv11, binbjz, DetachHead, and 4 more reacted with hooray emoji",
+        "14",
+        "vtrubesset, Klaster1, lin72h, sopansagorkar, calcium-anything-headfirst, binbjz, DetachHead, ValorHeart, bitwisebro, hquiles, and 4 more reacted with heart emoji",
+        "26 reactions",
+        "1 reaction",
+        "14 reactions"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "source_type": "social_media",
+      "prev_length": 30770,
+      "curr_length": 9087,
+      "length_delta": -21683,
+      "change_pct": 70.5,
+      "added_lines": [
+        "29,228,581 followers"
+      ],
+      "removed_lines": [
+        "29,203,821 followers",
+        "Updates",
+        "Microsoft",
+        "reposted this",
+        "Brad Smith",
+        "Brad Smith is an Influencer",
+        "Vice Chair and President at Microsoft Corporation",
+        "20h",
+        "Report this post",
+        "Last night we opened a door unlike any other. At the heart of Microsoft’s campus, step into the new home of the",
+        "UW's Global Innovation Exchange",
+        "(GIX) and you cross from",
+        "Microsoft",
+        "into the",
+        "University of Washington",
+        ". No one has ever put a great research university and a leading technology company under the same roof quite like this. As far as I know, no one has even tried.",
+        "The timing matters. Artificial intelligence is advancing fast. The question is whether the people building it understand the world it’s changing. This calls for a new style of education and leadership. We need leaders who understand the technology deeply and see things through other people’s eyes. Leaders who learn by collaborating on real projects with people from different countries and disciplines.",
+        "That’s what GIX is built for. Students will learn from faculty across the UW, take classes taught by Microsoft employees, and be mentored by people from across our industry here in the Pacific Northwest. And it works both ways. Our first cohort of 30 senior technical leaders from Microsoft will spend their evenings here in a mini-MBA program, and our goal is three or four cohorts every year.",
+        "This partnership will do great things for our two institutions, for our state, and as a role model beyond Washington. What we have today is strong. But what’s to come will be even greater.",
+        "So many people made this possible. Thank you to UW President",
+        "Robert J. Jones",
+        ", who saw that this could matter even more in the future than it does today, and to academic leaders across the university. To the incredible Microsoft team for backing and building this from the very beginning. To Redmond Mayor Angela Birney and our state legislators. To Christine Gregoire, who helped find a path forward when we needed one, and to",
+        "Sean Carr",
+        ", who has nurtured GIX into what it is today.",
+        "Learn more:",
+        "https://lnkd.in/eKFKwTUN",
+        "584",
+        "41 Comments",
+        "Like",
+        "Comment",
+        "Share",
+        "Microsoft",
+        "reposted this",
+        "Microsoft Copilot",
+        "735,985 followers",
+        "1d",
+        "Report this post",
+        "From presentations to custom apps, the new Copilot brings Home, Code, and Autopilot together in one place to help move work forward.",
+        "Start using the Copilot app now and try out new features when they become available in Frontier:",
+        "https://msft.it/6046aYYQG"
+      ]
+    },
+    {
+      "url": "https://x.com/playwrightweb?lang=en",
+      "source_type": "social_media",
+      "prev_length": 305,
+      "curr_length": 305,
+      "length_delta": 0,
+      "change_pct": 0.0,
+      "added_lines": [
+        "a45cddb8e87f50a5"
+      ],
+      "removed_lines": [
+        "a444217fbee9b1ab"
+      ]
+    },
+    {
+      "url": "https://www.trustradius.com/products/playwright/reviews",
+      "source_type": "review",
+      "prev_length": 333,
+      "curr_length": 333,
+      "length_delta": 0,
+      "change_pct": 0.0,
+      "added_lines": [
+        "a45cdf10ddb0e54b"
+      ],
+      "removed_lines": [
+        "a44422da6a8ab74c"
+      ]
+    }
+  ],
+  "new_pages": [],
+  "removed_pages": [],
+  "unchanged_count": 8
+}
